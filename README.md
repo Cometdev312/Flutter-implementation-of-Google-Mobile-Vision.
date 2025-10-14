@@ -66,8 +66,6 @@ Liked? :star: Star the repo to support the project!
 
 ## Usage
 
-[Example](https://github.com/edufolly/flutter_mobile_vision/blob/master/example/lib/main.dart)
-
 To use this plugin :
 
 * add the dependency to your `pubspec.yaml` file:
@@ -227,4 +225,4 @@ For Android, you must do the following before you can use the plugin:
 
 ### iOS
 
-If you can help, the community thanks. Your fork is needed. :wink:
+If you have a question, feel free to reach out.
