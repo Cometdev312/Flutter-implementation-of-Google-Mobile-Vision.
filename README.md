@@ -222,7 +222,3 @@ For Android, you must do the following before you can use the plugin:
 * Add the Face Detection activity to your AndroidManifest.xml (after other activity nodes)
 
    `<activity android:name="io.github.edufolly.fluttermobilevision.face.FaceCaptureActivity" />`
-
-### iOS
-
-If you have a question, feel free to reach out.
